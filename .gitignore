@@ -1,0 +1,27 @@
+.vscode/
+dump.rdb
+**/__pycache__
+
+# local env files
+.env.*
+env
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+logs
+*.log
+
+# OSX
+**/.DS_Store
+
+venv
+build
+dist
